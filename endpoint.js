@@ -1,0 +1,1 @@
+export const SOCKET_ENDPOINT = "https://4ed7-75-164-56-170.ngrok.io"
